@@ -1,2 +1,2 @@
 # bookbot
-Duided coursed from bootdev (bookbot)
+BookBot is my first project!
